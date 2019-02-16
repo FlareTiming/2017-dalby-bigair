@@ -1,0 +1,563 @@
+[
+  {
+    "taskName": "day one",
+    "zones": {
+      "raw": [
+        {
+          "radius": "5000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "4995.0 m",
+          "alt": "351.000 m"
+        },
+        {
+          "radius": "4000.0 m",
+          "lat": -26.7866,
+          "zoneName": "JANDOW",
+          "lng": 151.11634,
+          "give": "4005.0 m",
+          "alt": "365.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -26.92781,
+          "zoneName": "WARRA",
+          "lng": 150.91386,
+          "give": "405.0 m",
+          "alt": "335.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "1005.0 m",
+          "alt": "351.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-27.15886000 deg",
+              "151.26378000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-27.15886000 deg",
+                "151.26378000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "4000.0 m",
+              "center": [
+                "-26.78660000 deg",
+                "151.11634000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-26.92781000 deg",
+                "150.91386000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": []
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      1,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": 0
+    },
+    "startGates": [
+      "2017-04-09T03:20:00Z",
+      "2017-04-09T03:40:00Z",
+      "2017-04-09T04:00:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2017-04-09T10:00:00Z",
+        "open": "2017-04-09T03:20:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "day four T2",
+    "zones": {
+      "raw": [
+        {
+          "radius": "5000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "4995.0 m",
+          "alt": "351.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -27.04144,
+          "zoneName": "MACALI",
+          "lng": 151.07387,
+          "give": "405.0 m",
+          "alt": "335.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -26.96142,
+          "zoneName": "JIMBOU",
+          "lng": 151.21333,
+          "give": "405.0 m",
+          "alt": "365.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -26.92781,
+          "zoneName": "WARRA",
+          "lng": 150.91386,
+          "give": "405.0 m",
+          "alt": "335.000 m"
+        },
+        {
+          "radius": "4000.0 m",
+          "lat": -26.7866,
+          "zoneName": "JANDOW",
+          "lng": 151.11634,
+          "give": "4005.0 m",
+          "alt": "365.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -26.84967,
+          "zoneName": "BRIGAL",
+          "lng": 150.79721,
+          "give": "1005.0 m",
+          "alt": "335.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-26.84967000 deg",
+              "150.79721000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-27.15886000 deg",
+                "151.26378000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-27.04144000 deg",
+                "151.07387000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-26.96142000 deg",
+                "151.21333000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-26.92781000 deg",
+                "150.91386000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "4000.0 m",
+              "center": [
+                "-26.78660000 deg",
+                "151.11634000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": []
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      1,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2017-04-12T03:00:00Z",
+      "2017-04-12T03:20:00Z",
+      "2017-04-12T03:40:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2017-04-12T10:00:00Z",
+        "open": "2017-04-12T03:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "day five",
+    "zones": {
+      "raw": [
+        {
+          "radius": "5000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "4995.0 m",
+          "alt": "351.000 m"
+        },
+        {
+          "radius": "15000.0 m",
+          "lat": -26.84967,
+          "zoneName": "BRIGAL",
+          "lng": 150.79721,
+          "give": "15007.5 m",
+          "alt": "335.000 m"
+        },
+        {
+          "radius": "37000.0 m",
+          "lat": -26.60408,
+          "zoneName": "IRON",
+          "lng": 151.43256,
+          "give": "37018.5 m",
+          "alt": "426.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "1005.0 m",
+          "alt": "351.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-27.15886000 deg",
+              "151.26378000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-27.15886000 deg",
+                "151.26378000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "15000.0 m",
+              "center": [
+                "-26.84967000 deg",
+                "150.79721000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "37000.0 m",
+              "center": [
+                "-26.60408000 deg",
+                "151.43256000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": []
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      1,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2017-04-13T03:00:00Z",
+      "2017-04-13T03:20:00Z",
+      "2017-04-13T03:40:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2017-04-13T10:00:00Z",
+        "open": "2017-04-13T03:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "day six",
+    "zones": {
+      "raw": [
+        {
+          "radius": "5000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "4995.0 m",
+          "alt": "351.000 m"
+        },
+        {
+          "radius": "2000.0 m",
+          "lat": -26.92781,
+          "zoneName": "WARRA",
+          "lng": 150.91386,
+          "give": "2005.0 m",
+          "alt": "335.000 m"
+        },
+        {
+          "radius": "2000.0 m",
+          "lat": -26.92697,
+          "zoneName": "BELL",
+          "lng": 151.44817,
+          "give": "2005.0 m",
+          "alt": "487.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "1005.0 m",
+          "alt": "351.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-27.15886000 deg",
+              "151.26378000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-27.15886000 deg",
+                "151.26378000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "2000.0 m",
+              "center": [
+                "-26.92781000 deg",
+                "150.91386000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "2000.0 m",
+              "center": [
+                "-26.92697000 deg",
+                "151.44817000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": []
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      1,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2017-04-14T03:00:00Z",
+      "2017-04-14T03:20:00Z",
+      "2017-04-14T03:40:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2017-04-14T10:00:00Z",
+        "open": "2017-04-14T03:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "day seven",
+    "zones": {
+      "raw": [
+        {
+          "radius": "5000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "4995.0 m",
+          "alt": "351.000 m"
+        },
+        {
+          "radius": "7000.0 m",
+          "lat": -27.34386,
+          "zoneName": "BROADW",
+          "lng": 151.09409,
+          "give": "7005.0 m",
+          "alt": "365.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -26.96142,
+          "zoneName": "JIMBOU",
+          "lng": 151.21333,
+          "give": "405.0 m",
+          "alt": "365.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -27.04144,
+          "zoneName": "MACALI",
+          "lng": 151.07387,
+          "give": "405.0 m",
+          "alt": "335.000 m"
+        },
+        {
+          "radius": "1000.0 m",
+          "lat": -27.15886,
+          "zoneName": "1DALBY",
+          "lng": 151.26378,
+          "give": "1005.0 m",
+          "alt": "351.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "1000.0 m",
+            "center": [
+              "-27.15886000 deg",
+              "151.26378000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "-27.15886000 deg",
+                "151.26378000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "7000.0 m",
+              "center": [
+                "-27.34386000 deg",
+                "151.09409000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-26.96142000 deg",
+                "151.21333000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-27.04144000 deg",
+                "151.07387000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": []
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      1,
+      5
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2017-04-15T03:00:00Z",
+      "2017-04-15T03:20:00Z",
+      "2017-04-15T03:40:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2017-04-15T10:00:00Z",
+        "open": "2017-04-15T03:00:00Z"
+      }
+    ]
+  }
+]

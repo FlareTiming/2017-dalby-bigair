@@ -1,0 +1,32 @@
+[
+  {
+    "time": 0,
+    "launch": 1,
+    "distance": 1,
+    "task": 0
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 1,
+    "task": 1
+  }
+]
