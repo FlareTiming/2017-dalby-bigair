@@ -2,12 +2,12 @@
   {
     "goalRatio": 0.46808511,
     "points": {
-      "time": 0,
-      "reach": 0,
-      "distance": 0,
+      "time": 493.7,
+      "reach": 217.88,
+      "distance": 435.761,
       "leading": 0,
-      "effort": 0,
-      "arrival": 0
+      "effort": 217.88,
+      "arrival": 70.5
     },
     "weight": {
       "time": 0.4937,
@@ -17,7 +17,7 @@
       "effort": 0.2179,
       "arrival": 0.0705
     },
-    "taskPoints": 0
+    "taskPoints": 1000
   },
   {
     "goalRatio": 0.55319149,
