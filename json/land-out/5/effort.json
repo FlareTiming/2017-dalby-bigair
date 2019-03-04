@@ -1,0 +1,182 @@
+[
+  [
+    [
+      "21",
+      "Frank Chetcuti"
+    ],
+    {
+      "frac": 1,
+      "effort": "82.289000 km"
+    }
+  ],
+  [
+    [
+      "48",
+      "Derek Mckee"
+    ],
+    {
+      "frac": 0.98630136,
+      "effort": "59.193000 km"
+    }
+  ],
+  [
+    [
+      "5",
+      "Jonny Durand"
+    ],
+    {
+      "frac": 0.97260274,
+      "effort": "58.583000 km"
+    }
+  ],
+  [
+    [
+      "9",
+      "Rohan Taylor"
+    ],
+    {
+      "frac": 0.94520548,
+      "effort": "58.405000 km"
+    }
+  ],
+  [
+    [
+      "32",
+      "Rob Larkin"
+    ],
+    {
+      "frac": 0.90410958,
+      "effort": "57.284000 km"
+    }
+  ],
+  [
+    [
+      "35",
+      "Anatoly Reyter"
+    ],
+    {
+      "frac": 0.84931506,
+      "effort": "55.722000 km"
+    }
+  ],
+  [
+    [
+      "18",
+      "Peter Adriaans"
+    ],
+    {
+      "frac": 0.84931506,
+      "effort": "55.745000 km"
+    }
+  ],
+  [
+    [
+      "15",
+      "Andrew Sharpe"
+    ],
+    {
+      "frac": 0.78082192,
+      "effort": "55.402000 km"
+    }
+  ],
+  [
+    [
+      "7",
+      "James Atkinson"
+    ],
+    {
+      "frac": 0.69863014,
+      "effort": "55.026000 km"
+    }
+  ],
+  [
+    [
+      "34",
+      "dave moore"
+    ],
+    {
+      "frac": 0.60273972,
+      "effort": "52.937000 km"
+    }
+  ],
+  [
+    [
+      "13",
+      "Matthew Barlow"
+    ],
+    {
+      "frac": 0.49315068,
+      "effort": "50.851000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Guy Williams"
+    ],
+    {
+      "frac": 0.36986302,
+      "effort": "44.437000 km"
+    }
+  ],
+  [
+    [
+      "1",
+      "Mark Alton"
+    ],
+    {
+      "frac": 0.23287672,
+      "effort": "40.885000 km"
+    }
+  ],
+  [
+    [
+      "40",
+      "Hossain Tefaili"
+    ],
+    {
+      "frac": 0.15068494,
+      "effort": "40.340000 km"
+    }
+  ],
+  [
+    [
+      "38",
+      "Dave Stevens"
+    ],
+    {
+      "frac": 0.06849316,
+      "effort": "22.482000 km"
+    }
+  ],
+  [
+    [
+      "28",
+      "John Harriot"
+    ],
+    {
+      "frac": 0.05479452,
+      "effort": "12.687000 km"
+    }
+  ],
+  [
+    [
+      "31",
+      "Tomas Kellner"
+    ],
+    {
+      "frac": 0.02739726,
+      "effort": "1.480000 km"
+    }
+  ],
+  [
+    [
+      "49",
+      "Damian Peauril"
+    ],
+    {
+      "frac": 0.02739726,
+      "effort": "5.000000 km"
+    }
+  ]
+]
