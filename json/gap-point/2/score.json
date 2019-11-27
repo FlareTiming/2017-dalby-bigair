@@ -5,6 +5,10 @@
       "Steve Blenkinsop"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 417.4,
         "reach": 201.889,
@@ -14,22 +18,21 @@
         "arrival": 74.5
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "46.96 km / h",
-        "ssElapsed": "2.369436 h",
-        "gsElapsed": "2.391822 h",
-        "es": "2017-04-12T05:43:30.557819576622Z",
-        "ss": "2017-04-12T03:21:20.588514810104Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "46.97 km / h",
+        "ssElapsed": "2.368907 h",
+        "gsElapsed": "2.391771 h",
+        "es": "2017-04-12T05:43:30.374558925659Z",
+        "ss": "2017-04-12T03:21:22.308804385475Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "46.50 km / h"
       },
       "total": 957,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "1",
-      "reachDistance": "111.261 km"
+      "place": "1"
     }
   ],
   [
@@ -38,6 +41,10 @@
       "Tony Armstrong"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 413,
         "reach": 201.889,
@@ -47,22 +54,21 @@
         "arrival": 68.5
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "46.76 km / h",
-        "ssElapsed": "2.379191 h",
-        "gsElapsed": "2.393494 h",
-        "es": "2017-04-12T05:43:36.579480368449Z",
-        "ss": "2017-04-12T03:20:51.492988497093Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "46.78 km / h",
+        "ssElapsed": "2.378600 h",
+        "gsElapsed": "2.393435 h",
+        "es": "2017-04-12T05:43:36.36571515236Z",
+        "ss": "2017-04-12T03:20:53.403975464043Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "46.50 km / h"
       },
       "total": 943,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "2",
-      "reachDistance": "111.261 km"
+      "place": "2"
     }
   ],
   [
@@ -71,6 +77,10 @@
       "Guy Hubbard"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 404.9,
         "reach": 201.889,
@@ -80,22 +90,21 @@
         "arrival": 62.8
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "46.64 km / h",
-        "ssElapsed": "2.385676 h",
-        "gsElapsed": "2.399764 h",
-        "es": "2017-04-12T05:43:59.150143470304Z",
-        "ss": "2017-04-12T03:20:50.71683513943Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "46.65 km / h",
+        "ssElapsed": "2.385163 h",
+        "gsElapsed": "2.399702 h",
+        "es": "2017-04-12T05:43:58.926175814756Z",
+        "ss": "2017-04-12T03:20:52.34013196523Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "46.40 km / h"
       },
       "total": 931,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "3",
-      "reachDistance": "111.261 km"
+      "place": "3"
     }
   ],
   [
@@ -104,6 +113,10 @@
       "Josh Woods"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 399.9,
         "reach": 201.889,
@@ -113,22 +126,21 @@
         "arrival": 57.6
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "46.79 km / h",
-        "ssElapsed": "2.378023 h",
-        "gsElapsed": "2.405068 h",
-        "es": "2017-04-12T05:44:18.245946360914Z",
-        "ss": "2017-04-12T03:21:37.363472572635Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "46.80 km / h",
+        "ssElapsed": "2.377528 h",
+        "gsElapsed": "2.405003 h",
+        "es": "2017-04-12T05:44:18.009881890378Z",
+        "ss": "2017-04-12T03:21:38.90774927478Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "46.30 km / h"
       },
       "total": 920,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "4",
-      "reachDistance": "111.261 km"
+      "place": "4"
     }
   ],
   [
@@ -137,31 +149,34 @@
       "Nick Purcell"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 399.8,
         "reach": 201.889,
         "distance": 403.778,
-        "leading": 58.8,
+        "leading": 58.7,
         "effort": 201.889,
         "arrival": 52.8
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "46.82 km / h",
-        "ssElapsed": "2.376189 h",
-        "gsElapsed": "2.405192 h",
-        "es": "2017-04-12T05:44:18.690911931778Z",
-        "ss": "2017-04-12T03:21:44.40950410905Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "46.83 km / h",
+        "ssElapsed": "2.375727 h",
+        "gsElapsed": "2.405132 h",
+        "es": "2017-04-12T05:44:18.473699340704Z",
+        "ss": "2017-04-12T03:21:45.855300609786Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "46.30 km / h"
       },
       "total": 915,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "5",
-      "reachDistance": "111.261 km"
+      "place": "5"
     }
   ],
   [
@@ -170,8 +185,12 @@
       "Niki Longshore"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
-        "time": 305,
+        "time": 305.1,
         "reach": 201.889,
         "distance": 403.778,
         "leading": 58.5,
@@ -179,22 +198,21 @@
         "arrival": 40.5
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "43.18 km / h",
-        "ssElapsed": "2.576433 h",
-        "gsElapsed": "2.607723 h",
-        "es": "2017-04-12T05:56:27.801066671215Z",
-        "ss": "2017-04-12T03:21:52.64201922775Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "43.19 km / h",
+        "ssElapsed": "2.575857 h",
+        "gsElapsed": "2.607642 h",
+        "es": "2017-04-12T05:56:27.511054311922Z",
+        "ss": "2017-04-12T03:21:54.42719169074Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "42.70 km / h"
       },
       "total": 808,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "6",
-      "reachDistance": "111.261 km"
+      "place": "6"
     }
   ],
   [
@@ -203,6 +221,10 @@
       "Konrad Heilmann"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 242.1,
         "reach": 201.889,
@@ -212,22 +234,21 @@
         "arrival": 48.3
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
         "ssVelocity": "40.25 km / h",
-        "ssElapsed": "2.764378 h",
-        "gsElapsed": "2.812562 h",
-        "es": "2017-04-12T05:48:45.2232742868Z",
-        "ss": "2017-04-12T03:02:53.46351805673Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.763917 h",
+        "gsElapsed": "2.812468 h",
+        "es": "2017-04-12T05:48:44.88424623774Z",
+        "ss": "2017-04-12T03:02:54.78257604057Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "39.60 km / h"
       },
       "total": 799,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "7",
-      "reachDistance": "111.261 km"
+      "place": "7"
     }
   ],
   [
@@ -236,6 +257,10 @@
       "Jonny Durand"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 314.5,
         "reach": 201.889,
@@ -245,22 +270,21 @@
         "arrival": 26.6
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
-        "ssVelocity": "44.16 km / h",
-        "ssElapsed": "2.519460 h",
-        "gsElapsed": "2.581083 h",
-        "es": "2017-04-12T06:14:51.899774363196Z",
-        "ss": "2017-04-12T03:43:41.842971295193Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "44.17 km / h",
+        "ssElapsed": "2.519084 h",
+        "gsElapsed": "2.581022 h",
+        "es": "2017-04-12T06:14:51.677498495018Z",
+        "ss": "2017-04-12T03:43:42.975717777389Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "43.10 km / h"
       },
       "total": 765,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "8",
-      "reachDistance": "111.261 km"
+      "place": "8"
     }
   ],
   [
@@ -269,6 +293,10 @@
       "Craig Taylor"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 216.3,
         "reach": 201.889,
@@ -278,22 +306,21 @@
         "arrival": 44.2
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
         "ssVelocity": "38.45 km / h",
-        "ssElapsed": "2.893818 h",
-        "gsElapsed": "2.909059 h",
-        "es": "2017-04-12T05:54:32.612679105742Z",
-        "ss": "2017-04-12T03:00:54.8661342859Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.893378 h",
+        "gsElapsed": "2.909002 h",
+        "es": "2017-04-12T05:54:32.408385093206Z",
+        "ss": "2017-04-12T03:00:56.24652220953Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "38.20 km / h"
       },
       "total": 763,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "9",
-      "reachDistance": "111.261 km"
+      "place": "9"
     }
   ],
   [
@@ -302,8 +329,12 @@
       "rob degroot"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
-        "time": 266.8,
+        "time": 266.9,
         "reach": 201.889,
         "distance": 403.778,
         "leading": 49.2,
@@ -311,22 +342,21 @@
         "arrival": 34
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "41.40 km / h",
-        "ssElapsed": "2.687606 h",
-        "gsElapsed": "2.726762 h",
-        "es": "2017-04-12T06:03:36.3437177033Z",
-        "ss": "2017-04-12T03:22:20.963889994024Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "41.41 km / h",
+        "ssElapsed": "2.687060 h",
+        "gsElapsed": "2.726671 h",
+        "es": "2017-04-12T06:03:36.014918823956Z",
+        "ss": "2017-04-12T03:22:22.599115622492Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "40.80 km / h"
       },
       "total": 754,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "10",
-      "reachDistance": "111.261 km"
+      "place": "10"
     }
   ],
   [
@@ -335,6 +365,10 @@
       "Mikhail Karmazin"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 207.3,
         "reach": 201.889,
@@ -344,22 +378,21 @@
         "arrival": 37.1
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
-        "ssVelocity": "37.98 km / h",
-        "ssElapsed": "2.929112 h",
-        "gsElapsed": "2.944105 h",
-        "es": "2017-04-12T05:56:38.777199052912Z",
-        "ss": "2017-04-12T03:00:53.97447740258Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "37.99 km / h",
+        "ssElapsed": "2.928744 h",
+        "gsElapsed": "2.944036 h",
+        "es": "2017-04-12T05:56:38.53084946275Z",
+        "ss": "2017-04-12T03:00:55.05270386548Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "37.80 km / h"
       },
       "total": 742,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "11",
-      "reachDistance": "111.261 km"
+      "place": "11"
     }
   ],
   [
@@ -368,6 +401,10 @@
       "Rory Duncan"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 290.8,
         "reach": 201.889,
@@ -377,22 +414,21 @@
         "arrival": 20.1
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
-        "ssVelocity": "43.01 km / h",
-        "ssElapsed": "2.586898 h",
-        "gsElapsed": "2.649966 h",
-        "es": "2017-04-12T06:18:59.876190990445Z",
-        "ss": "2017-04-12T03:43:47.044209440425Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "43.02 km / h",
+        "ssElapsed": "2.586517 h",
+        "gsElapsed": "2.649907 h",
+        "es": "2017-04-12T06:18:59.663872917465Z",
+        "ss": "2017-04-12T03:43:48.20261464172Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "42.00 km / h"
       },
       "total": 733,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "12",
-      "reachDistance": "111.261 km"
+      "place": "12"
     }
   ],
   [
@@ -401,6 +437,10 @@
       "Harrison Rowntree"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 246.6,
         "reach": 201.889,
@@ -410,22 +450,21 @@
         "arrival": 31.3
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
         "ssVelocity": "40.03 km / h",
-        "ssElapsed": "2.779741 h",
-        "gsElapsed": "2.796489 h",
-        "es": "2017-04-12T06:07:47.359752946746Z",
-        "ss": "2017-04-12T03:21:00.292950256659Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.779395 h",
+        "gsElapsed": "2.796427 h",
+        "es": "2017-04-12T06:07:47.138577879516Z",
+        "ss": "2017-04-12T03:21:01.316849817528Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "39.80 km / h"
       },
       "total": 730,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "13",
-      "reachDistance": "111.261 km"
+      "place": "13"
     }
   ],
   [
@@ -434,6 +473,10 @@
       "Rohan Taylor"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 223.7,
         "reach": 201.889,
@@ -443,22 +486,21 @@
         "arrival": 28.8
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "38.98 km / h",
-        "ssElapsed": "2.854173 h",
-        "gsElapsed": "2.880803 h",
-        "es": "2017-04-12T06:12:50.889697113991Z",
-        "ss": "2017-04-12T03:21:35.86819561157Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "38.99 km / h",
+        "ssElapsed": "2.853742 h",
+        "gsElapsed": "2.880745 h",
+        "es": "2017-04-12T06:12:50.682227037618Z",
+        "ss": "2017-04-12T03:21:37.210838501054Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "38.60 km / h"
       },
       "total": 699,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "14",
-      "reachDistance": "111.261 km"
+      "place": "14"
     }
   ],
   [
@@ -467,6 +509,10 @@
       "Andrew Barnes"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 248.3,
         "reach": 201.889,
@@ -476,22 +522,21 @@
         "arrival": 18
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
         "ssVelocity": "40.85 km / h",
-        "ssElapsed": "2.723878 h",
-        "gsElapsed": "2.790371 h",
-        "es": "2017-04-12T06:27:25.337070416334Z",
-        "ss": "2017-04-12T03:43:59.37781579259Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.723508 h",
+        "gsElapsed": "2.790318 h",
+        "es": "2017-04-12T06:27:25.143740389262Z",
+        "ss": "2017-04-12T03:44:00.514705351265Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "39.90 km / h"
       },
       "total": 681,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "15",
-      "reachDistance": "111.261 km"
+      "place": "15"
     }
   ],
   [
@@ -500,6 +545,10 @@
       "Jason Kath"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 191.3,
         "reach": 201.889,
@@ -509,22 +558,21 @@
         "arrival": 19
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
         "ssVelocity": "37.31 km / h",
-        "ssElapsed": "2.982438 h",
-        "gsElapsed": "3.008464 h",
-        "es": "2017-04-12T06:20:30.471715752769Z",
-        "ss": "2017-04-12T03:21:33.693555390566Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.982013 h",
+        "gsElapsed": "3.008378 h",
+        "es": "2017-04-12T06:20:30.159063575709Z",
+        "ss": "2017-04-12T03:21:34.913895140631Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "37.00 km / h"
       },
       "total": 665,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "16",
-      "reachDistance": "111.261 km"
+      "place": "16"
     }
   ],
   [
@@ -533,6 +581,10 @@
       "steve crosby"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 198.8,
         "reach": 201.889,
@@ -542,22 +594,21 @@
         "arrival": 24.6
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "37.74 km / h",
-        "ssElapsed": "2.947777 h",
-        "gsElapsed": "2.977899 h",
-        "es": "2017-04-12T06:18:40.436704027502Z",
-        "ss": "2017-04-12T03:21:48.44019520804Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "37.75 km / h",
+        "ssElapsed": "2.947308 h",
+        "gsElapsed": "2.977845 h",
+        "es": "2017-04-12T06:18:40.240918054098Z",
+        "ss": "2017-04-12T03:21:49.93382635715Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "37.40 km / h"
       },
       "total": 657,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "17",
-      "reachDistance": "111.261 km"
+      "place": "17"
     }
   ],
   [
@@ -566,6 +617,10 @@
       "Viv Clements"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 198.5,
         "reach": 201.889,
@@ -575,22 +630,21 @@
         "arrival": 22.9
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": "37.87 km / h",
-        "ssElapsed": "2.938312 h",
-        "gsElapsed": "2.979175 h",
-        "es": "2017-04-12T06:18:45.029436079955Z",
-        "ss": "2017-04-12T03:22:27.106212256075Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "37.93 km / h",
+        "ssElapsed": "2.933241 h",
+        "gsElapsed": "2.979123 h",
+        "es": "2017-04-12T06:18:44.843776357293Z",
+        "ss": "2017-04-12T03:22:45.175765965361Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "37.40 km / h"
       },
       "total": 656,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "18=",
-      "reachDistance": "111.261 km"
+      "place": "18="
     }
   ],
   [
@@ -599,6 +653,10 @@
       "Hagen Bruggemann"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 198.1,
         "reach": 201.889,
@@ -608,22 +666,21 @@
         "arrival": 21.4
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
         "ssVelocity": "37.52 km / h",
-        "ssElapsed": "2.965707 h",
-        "gsElapsed": "2.980844 h",
-        "es": "2017-04-12T06:18:51.037470178166Z",
-        "ss": "2017-04-12T03:20:54.491025857608Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.965241 h",
+        "gsElapsed": "2.980784 h",
+        "es": "2017-04-12T06:18:50.822908751647Z",
+        "ss": "2017-04-12T03:20:55.956323899285Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "37.30 km / h"
       },
       "total": 656,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "18=",
-      "reachDistance": "111.261 km"
+      "place": "18="
     }
   ],
   [
@@ -632,6 +689,10 @@
       "Rod Flockhart"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 200.5,
         "reach": 201.889,
@@ -641,22 +702,21 @@
         "arrival": 16.1
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
         "ssVelocity": "38.66 km / h",
-        "ssElapsed": "2.878263 h",
-        "gsElapsed": "2.971069 h",
-        "es": "2017-04-12T06:38:15.849113752184Z",
-        "ss": "2017-04-12T03:45:34.103649683982Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "2.877871 h",
+        "gsElapsed": "2.971007 h",
+        "es": "2017-04-12T06:38:15.624822690893Z",
+        "ss": "2017-04-12T03:45:35.289149309274Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "37.50 km / h"
       },
       "total": 628,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "20",
-      "reachDistance": "111.261 km"
+      "place": "20"
     }
   ],
   [
@@ -665,6 +725,10 @@
       "James Atkinson"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 179.8,
         "reach": 201.889,
@@ -674,22 +738,21 @@
         "arrival": 15.2
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
-        "ssVelocity": "37.32 km / h",
-        "ssElapsed": "2.981051 h",
-        "gsElapsed": "3.055846 h",
-        "es": "2017-04-12T06:43:21.046359887332Z",
-        "ss": "2017-04-12T03:44:29.264462692768Z",
-        "ssDistance": "111.261 km",
+        "ssVelocity": "37.33 km / h",
+        "ssElapsed": "2.980621 h",
+        "gsElapsed": "3.055754 h",
+        "es": "2017-04-12T06:43:20.713154410998Z",
+        "ss": "2017-04-12T03:44:30.477401475986Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "36.40 km / h"
       },
       "total": 601,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "21",
-      "reachDistance": "111.261 km"
+      "place": "21"
     }
   ],
   [
@@ -698,6 +761,10 @@
       "John Spencer"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 139.3,
         "reach": 201.889,
@@ -707,22 +774,21 @@
         "arrival": 16.6
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
         "ssVelocity": "34.90 km / h",
-        "ssElapsed": "3.188235 h",
-        "gsElapsed": "3.232826 h",
-        "es": "2017-04-12T06:33:58.17502430031Z",
-        "ss": "2017-04-12T03:22:40.52932727805Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "3.187677 h",
+        "gsElapsed": "3.232753 h",
+        "es": "2017-04-12T06:33:57.909151335232Z",
+        "ss": "2017-04-12T03:22:42.27252687736Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "34.40 km / h"
       },
       "total": 579,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "22",
-      "reachDistance": "111.261 km"
+      "place": "22"
     }
   ],
   [
@@ -731,6 +797,10 @@
       "Tony Giammichele"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 106.7,
         "reach": 201.889,
@@ -740,22 +810,21 @@
         "arrival": 15.4
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
         "ssVelocity": "33.36 km / h",
-        "ssElapsed": "3.335461 h",
-        "gsElapsed": "3.384850 h",
-        "es": "2017-04-12T06:43:05.460458211274Z",
-        "ss": "2017-04-12T03:22:57.802364002036Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "3.334953 h",
+        "gsElapsed": "3.384773 h",
+        "es": "2017-04-12T06:43:05.182005127827Z",
+        "ss": "2017-04-12T03:22:59.351695030385Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "32.90 km / h"
       },
       "total": 537,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "23",
-      "reachDistance": "111.261 km"
+      "place": "23"
     }
   ],
   [
@@ -764,6 +833,10 @@
       "Dave Stevens"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 84.2,
         "reach": 201.889,
@@ -773,22 +846,21 @@
         "arrival": 17.3
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
         "ssVelocity": "34.60 km / h",
-        "ssElapsed": "3.215728 h",
-        "gsElapsed": "3.494890 h",
-        "es": "2017-04-12T06:29:41.604305292396Z",
-        "ss": "2017-04-12T03:16:44.98206065055Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "3.215312 h",
+        "gsElapsed": "3.494833 h",
+        "es": "2017-04-12T06:29:41.397504927206Z",
+        "ss": "2017-04-12T03:16:46.27255119387Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "31.80 km / h"
       },
       "total": 526,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "24",
-      "reachDistance": "111.261 km"
+      "place": "24"
     }
   ],
   [
@@ -797,6 +869,10 @@
       "Frank Chetcuti"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 51.7,
         "reach": 201.889,
@@ -806,22 +882,21 @@
         "arrival": 15.7
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
         "ssVelocity": "30.96 km / h",
-        "ssElapsed": "3.593961 h",
-        "gsElapsed": "3.659907 h",
-        "es": "2017-04-12T06:39:35.665594119495Z",
-        "ss": "2017-04-12T03:03:57.404823591315Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "3.593476 h",
+        "gsElapsed": "3.659831 h",
+        "es": "2017-04-12T06:39:35.391280679523Z",
+        "ss": "2017-04-12T03:03:58.87834643793Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "30.40 km / h"
       },
       "total": 487,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "25",
-      "reachDistance": "111.261 km"
+      "place": "25"
     }
   ],
   [
@@ -830,15 +905,20 @@
       "Matthew Barlow"
     ],
     {
+      "reach": {
+        "extra": "110.744 km",
+        "flown": "110.744 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 200.943,
-        "distance": 399.162,
+        "reach": 200.953,
+        "distance": 402.777,
         "leading": 71.4,
-        "effort": 198.218,
+        "effort": 201.825,
         "arrival": 0
       },
       "stoppedAlt": "291.000 m",
+      "landedMade": "110.743 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -846,15 +926,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:02:58.44736283218Z",
+        "ss": "2017-04-12T03:02:59.82784882421Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 471,
-      "landedDistance": "110.740 km",
+      "total": 474,
       "penalties": [],
-      "place": "26",
-      "reachDistance": "110.740 km"
+      "place": "26"
     }
   ],
   [
@@ -863,15 +941,20 @@
       "Scott Barrett"
     ],
     {
+      "reach": {
+        "extra": "107.032 km",
+        "flown": "107.032 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 194.208,
-        "distance": 374.073,
+        "reach": 194.217,
+        "distance": 390.773,
         "leading": 56.3,
-        "effort": 179.865,
+        "effort": 196.556,
         "arrival": 0
       },
       "stoppedAlt": "289.000 m",
+      "landedMade": "106.789 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
@@ -879,15 +962,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:21:14.163182579325Z",
+        "ss": "2017-04-12T03:21:15.358460519895Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 430,
-      "landedDistance": "106.785 km",
+      "total": 447,
       "penalties": [],
-      "place": "27",
-      "reachDistance": "107.028 km"
+      "place": "27"
     }
   ],
   [
@@ -896,6 +977,10 @@
       "dave moore"
     ],
     {
+      "reach": {
+        "extra": "111.260 km",
+        "flown": "111.260 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 201.889,
@@ -905,22 +990,21 @@
         "arrival": 15
       },
       "stoppedAlt": null,
+      "landedMade": "111.260 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
         "ssVelocity": "26.45 km / h",
-        "ssElapsed": "4.206563 h",
-        "gsElapsed": "4.385731 h",
-        "es": "2017-04-12T07:23:08.633097197971Z",
-        "ss": "2017-04-12T03:10:45.005631139178Z",
-        "ssDistance": "111.261 km",
+        "ssElapsed": "4.206059 h",
+        "gsElapsed": "4.385622 h",
+        "es": "2017-04-12T07:23:08.240039061765Z",
+        "ss": "2017-04-12T03:10:46.4277830072Z",
+        "ssDistance": "111.260 km",
         "gsVelocity": "25.40 km / h"
       },
       "total": 419,
-      "landedDistance": "111.261 km",
       "penalties": [],
-      "place": "28",
-      "reachDistance": "111.261 km"
+      "place": "28"
     }
   ],
   [
@@ -929,15 +1013,20 @@
       "Brodrick Osborne"
     ],
     {
+      "reach": {
+        "extra": "110.820 km",
+        "flown": "110.820 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 201.081,
-        "distance": 402.97,
+        "reach": 201.09,
+        "distance": 402.979,
         "leading": 0,
         "effort": 201.889,
         "arrival": 0
       },
       "stoppedAlt": "288.000 m",
+      "landedMade": "110.820 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
@@ -945,15 +1034,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:22:36.87709232878Z",
+        "ss": "2017-04-12T03:22:38.120106890986Z",
         "ssDistance": null,
         "gsVelocity": null
       },
       "total": 403,
-      "landedDistance": "110.816 km",
       "penalties": [],
-      "place": "29",
-      "reachDistance": "110.816 km"
+      "place": "29"
     }
   ],
   [
@@ -962,15 +1049,20 @@
       "Anatoly Reyter"
     ],
     {
+      "reach": {
+        "extra": "106.951 km",
+        "flown": "106.951 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 194.061,
-        "distance": 384.938,
+        "reach": 194.07,
+        "distance": 390.883,
         "leading": 0,
-        "effort": 190.877,
+        "effort": 196.813,
         "arrival": 0
       },
       "stoppedAlt": "293.000 m",
+      "landedMade": "106.897 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
@@ -978,15 +1070,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:22:19.174371009668Z",
+        "ss": "2017-04-12T03:23:05.567789853926Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 385,
-      "landedDistance": "106.894 km",
+      "total": 391,
       "penalties": [],
-      "place": "30=",
-      "reachDistance": "106.947 km"
+      "place": "30="
     }
   ],
   [
@@ -995,15 +1085,20 @@
       "Peter Adriaans"
     ],
     {
+      "reach": {
+        "extra": "106.882 km",
+        "flown": "106.882 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 193.938,
-        "distance": 384.814,
+        "reach": 193.945,
+        "distance": 390.757,
         "leading": 0,
-        "effort": 190.877,
+        "effort": 196.813,
         "arrival": 0
       },
       "stoppedAlt": "281.000 m",
+      "landedMade": "106.882 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
@@ -1011,15 +1106,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:23:44.490348836147Z",
+        "ss": "2017-04-12T03:23:51.118448569344Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 385,
-      "landedDistance": "106.879 km",
+      "total": 391,
       "penalties": [],
-      "place": "30=",
-      "reachDistance": "106.879 km"
+      "place": "30="
     }
   ],
   [
@@ -1028,15 +1121,20 @@
       "Trevor Purcell"
     ],
     {
+      "reach": {
+        "extra": "94.993 km",
+        "flown": "94.993 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 172.363,
-        "distance": 337.544,
+        "reach": 172.371,
+        "distance": 331.017,
         "leading": 30.2,
-        "effort": 165.182,
+        "effort": 158.645,
         "arrival": 0
       },
       "stoppedAlt": "262.000 m",
+      "landedMade": "94.992 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
@@ -1044,15 +1142,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:21:55.38945888374Z",
+        "ss": "2017-04-12T03:21:57.038001726299Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 368,
-      "landedDistance": "94.989 km",
+      "total": 361,
       "penalties": [],
-      "place": "32",
-      "reachDistance": "94.989 km"
+      "place": "32"
     }
   ],
   [
@@ -1061,15 +1157,20 @@
       "Peter Burkitt"
     ],
     {
+      "reach": {
+        "extra": "75.984 km",
+        "flown": "75.984 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 137.799,
-        "distance": 277.286,
-        "leading": 58.3,
-        "effort": 139.487,
+        "reach": 137.878,
+        "distance": 269.472,
+        "leading": 58.4,
+        "effort": 131.594,
         "arrival": 0
       },
       "stoppedAlt": "303.000 m",
+      "landedMade": "75.952 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1077,15 +1178,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T02:57:15.563572593505Z",
+        "ss": "2017-04-12T02:57:17.052469853965Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 336,
-      "landedDistance": "75.907 km",
+      "total": 328,
       "penalties": [],
-      "place": "33",
-      "reachDistance": "75.941 km"
+      "place": "33"
     }
   ],
   [
@@ -1094,15 +1193,20 @@
       "Brad Porter"
     ],
     {
+      "reach": {
+        "extra": "90.279 km",
+        "flown": "90.279 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 163.811,
-        "distance": 310.639,
+        "reach": 163.817,
+        "distance": 311.411,
         "leading": 12.1,
-        "effort": 146.828,
+        "effort": 147.593,
         "arrival": 0
       },
       "stoppedAlt": "360.000 m",
+      "landedMade": "89.947 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
@@ -1110,15 +1214,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:44:28.135283050069Z",
+        "ss": "2017-04-12T03:44:28.941754280791Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 323,
-      "landedDistance": "89.944 km",
+      "total": 324,
       "penalties": [],
-      "place": "34",
-      "reachDistance": "90.276 km"
+      "place": "34"
     }
   ],
   [
@@ -1127,15 +1229,20 @@
       "Hossain Tefaili"
     ],
     {
+      "reach": {
+        "extra": "74.378 km",
+        "flown": "74.378 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 134.885,
-        "distance": 267.03,
+        "reach": 134.964,
+        "distance": 264.052,
         "leading": 0,
-        "effort": 132.145,
+        "effort": 129.088,
         "arrival": 0
       },
       "stoppedAlt": "0.000 m",
+      "landedMade": "73.945 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1143,15 +1250,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:12:38.428193706506Z",
+        "ss": "2017-04-12T03:12:39.787191402338Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 267,
-      "landedDistance": "73.903 km",
+      "total": 264,
       "penalties": [],
-      "place": "35",
-      "reachDistance": "74.335 km"
+      "place": "35"
     }
   ],
   [
@@ -1160,15 +1265,20 @@
       "Derek Mckee"
     ],
     {
+      "reach": {
+        "extra": "69.744 km",
+        "flown": "69.744 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 126.482,
-        "distance": 251.286,
+        "reach": 126.555,
+        "distance": 250.117,
         "leading": 0,
-        "effort": 124.804,
+        "effort": 123.562,
         "arrival": 0
       },
       "stoppedAlt": "296.000 m",
+      "landedMade": "69.641 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1176,48 +1286,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:12:02.737511767996Z",
+        "ss": "2017-04-12T03:12:05.4338970101Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 251,
-      "landedDistance": "69.599 km",
+      "total": 250,
       "penalties": [],
-      "place": "36",
-      "reachDistance": "69.704 km"
-    }
-  ],
-  [
-    [
-      "1",
-      "Mark Alton"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 120.229,
-        "distance": 234.021,
-        "leading": 2,
-        "effort": 113.792,
-        "arrival": 0
-      },
-      "stoppedAlt": "303.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2017-04-12T03:21:35.099107193045Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 236,
-      "landedDistance": "66.193 km",
-      "penalties": [],
-      "place": "37",
-      "reachDistance": "66.258 km"
+      "place": "36"
     }
   ],
   [
@@ -1226,15 +1301,20 @@
       "Billy Miller-Macleod"
     ],
     {
+      "reach": {
+        "extra": "66.567 km",
+        "flown": "66.567 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 120.71,
-        "distance": 219.819,
+        "reach": 120.79,
+        "distance": 233.686,
         "leading": 6.3,
-        "effort": 99.109,
+        "effort": 112.896,
         "arrival": 0
       },
       "stoppedAlt": "289.000 m",
+      "landedMade": "64.602 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:20:00Z",
@@ -1242,15 +1322,49 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:21:10.29017216657Z",
+        "ss": "2017-04-12T03:21:11.70108161297Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 226,
-      "landedDistance": "64.560 km",
+      "total": 240,
       "penalties": [],
-      "place": "38",
-      "reachDistance": "66.523 km"
+      "place": "37"
+    }
+  ],
+  [
+    [
+      "1",
+      "Mark Alton"
+    ],
+    {
+      "reach": {
+        "extra": "66.301 km",
+        "flown": "66.301 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 120.308,
+        "distance": 237.316,
+        "leading": 2,
+        "effort": 117.008,
+        "arrival": 0
+      },
+      "stoppedAlt": "303.000 m",
+      "landedMade": "66.237 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2017-04-12T03:20:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2017-04-12T03:21:36.54636482725Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 239,
+      "penalties": [],
+      "place": "38"
     }
   ],
   [
@@ -1259,15 +1373,20 @@
       "Simon West"
     ],
     {
+      "reach": {
+        "extra": "62.890 km",
+        "flown": "62.890 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 114.043,
-        "distance": 194.799,
+        "reach": 114.118,
+        "distance": 220.267,
         "leading": 0,
-        "effort": 80.756,
+        "effort": 106.149,
         "arrival": 0
       },
       "stoppedAlt": "288.000 m",
+      "landedMade": "62.516 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
@@ -1275,15 +1394,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:52:55.372267112685Z",
+        "ss": "2017-04-12T03:52:56.85759684078Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 195,
-      "landedDistance": "62.472 km",
+      "total": 220,
       "penalties": [],
-      "place": "39",
-      "reachDistance": "62.849 km"
+      "place": "39"
     }
   ],
   [
@@ -1292,15 +1409,20 @@
       "Rob Larkin"
     ],
     {
+      "reach": {
+        "extra": "49.676 km",
+        "flown": "49.676 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 90.058,
-        "distance": 148.79,
+        "reach": 90.14,
+        "distance": 160.949,
         "leading": 0,
-        "effort": 58.731,
+        "effort": 70.809,
         "arrival": 0
       },
       "stoppedAlt": "277.000 m",
+      "landedMade": "49.012 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:40:00Z",
@@ -1308,15 +1430,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T05:34:24.39895019625Z",
+        "ss": "2017-04-12T05:34:25.64312421286Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 149,
-      "landedDistance": "48.968 km",
+      "total": 161,
       "penalties": [],
-      "place": "40",
-      "reachDistance": "49.631 km"
+      "place": "40"
     }
   ],
   [
@@ -1325,15 +1445,20 @@
       "Paul Allen"
     ],
     {
+      "reach": {
+        "extra": "22.354 km",
+        "flown": "22.354 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 40.472,
-        "distance": 88.192,
+        "reach": 40.563,
+        "distance": 99.42,
         "leading": 0,
-        "effort": 47.719,
+        "effort": 58.857,
         "arrival": 0
       },
       "stoppedAlt": "296.000 m",
+      "landedMade": "22.188 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1341,15 +1466,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:11:40.41767495045Z",
+        "ss": "2017-04-12T03:11:43.59986543507Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 88,
-      "landedDistance": "22.137 km",
+      "total": 99,
       "penalties": [],
-      "place": "41=",
-      "reachDistance": "22.304 km"
+      "place": "41="
     }
   ],
   [
@@ -1358,15 +1481,20 @@
       "Andrew Sharpe"
     ],
     {
+      "reach": {
+        "extra": "22.261 km",
+        "flown": "22.261 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 40.302,
-        "distance": 88.021,
+        "reach": 40.394,
+        "distance": 99.251,
         "leading": 0,
-        "effort": 47.719,
+        "effort": 58.857,
         "arrival": 0
       },
       "stoppedAlt": "385.000 m",
+      "landedMade": "22.154 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1374,15 +1502,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:15:36.068420571956Z",
+        "ss": "2017-04-12T03:15:37.777071365487Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 88,
-      "landedDistance": "22.103 km",
+      "total": 99,
       "penalties": [],
-      "place": "41=",
-      "reachDistance": "22.210 km"
+      "place": "41="
     }
   ],
   [
@@ -1391,15 +1517,20 @@
       "Noel Collins"
     ],
     {
+      "reach": {
+        "extra": "22.261 km",
+        "flown": "22.261 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 40.302,
-        "distance": 88.021,
+        "reach": 40.394,
+        "distance": 99.251,
         "leading": 0,
-        "effort": 47.719,
+        "effort": 58.857,
         "arrival": 0
       },
       "stoppedAlt": "385.000 m",
+      "landedMade": "22.154 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1407,15 +1538,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:15:36.068420571956Z",
+        "ss": "2017-04-12T03:15:37.777071365487Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 88,
-      "landedDistance": "22.103 km",
+      "total": 99,
       "penalties": [],
-      "place": "41=",
-      "reachDistance": "22.210 km"
+      "place": "41="
     }
   ],
   [
@@ -1424,15 +1553,20 @@
       "Tomas Kellner"
     ],
     {
+      "reach": {
+        "extra": "22.414 km",
+        "flown": "22.414 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 40.581,
-        "distance": 84.63,
+        "reach": 40.671,
+        "distance": 99.143,
         "leading": 0,
-        "effort": 44.048,
+        "effort": 58.472,
         "arrival": 0
       },
       "stoppedAlt": "310.000 m",
+      "landedMade": "21.923 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1440,15 +1574,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:10:12.520673759215Z",
+        "ss": "2017-04-12T03:11:02.19995903546Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 85,
-      "landedDistance": "21.872 km",
+      "total": 99,
       "penalties": [],
-      "place": "44",
-      "reachDistance": "22.364 km"
+      "place": "41="
     }
   ],
   [
@@ -1457,15 +1589,20 @@
       "John Harriot"
     ],
     {
+      "reach": {
+        "extra": "17.272 km",
+        "flown": "17.272 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 31.244,
-        "distance": 67.951,
+        "reach": 31.341,
+        "distance": 77.733,
         "leading": 0,
-        "effort": 36.707,
+        "effort": 46.392,
         "arrival": 0
       },
       "stoppedAlt": "299.000 m",
+      "landedMade": "17.269 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1473,15 +1610,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:11:30.53390101291Z",
+        "ss": "2017-04-12T03:11:32.76412041494Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 68,
-      "landedDistance": "17.215 km",
+      "total": 78,
       "penalties": [],
-      "place": "45",
-      "reachDistance": "17.218 km"
+      "place": "45"
     }
   ],
   [
@@ -1490,15 +1625,20 @@
       "Guy Williams"
     ],
     {
+      "reach": {
+        "extra": "7.594 km",
+        "flown": "7.594 km"
+      },
       "breakdown": {
         "time": 0,
-        "reach": 13.684,
-        "distance": 39.379,
+        "reach": 13.779,
+        "distance": 27.08,
         "leading": 0,
-        "effort": 25.695,
+        "effort": 13.301,
         "arrival": 0
       },
       "stoppedAlt": "288.000 m",
+      "landedMade": "6.933 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2017-04-12T03:00:00Z",
@@ -1506,15 +1646,13 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2017-04-12T03:01:22.271000355565Z",
+        "ss": "2017-04-12T03:01:24.04459305553Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 39,
-      "landedDistance": "6.878 km",
+      "total": 27,
       "penalties": [],
-      "place": "46",
-      "reachDistance": "7.541 km"
+      "place": "46"
     }
   ],
   [
@@ -1523,22 +1661,25 @@
       "Damian Peauril"
     ],
     {
+      "reach": {
+        "extra": "0.000 km",
+        "flown": "0.000 km"
+      },
       "breakdown": {
         "time": 0,
         "reach": 9.073,
-        "distance": 20.085,
+        "distance": 9.073,
         "leading": 0,
-        "effort": 11.012,
+        "effort": 0,
         "arrival": 0
       },
       "stoppedAlt": null,
+      "landedMade": "0.000 km",
       "penaltyReason": "",
       "velocity": null,
-      "total": 20,
-      "landedDistance": "0.000 km",
+      "total": 9,
       "penalties": [],
-      "place": "47",
-      "reachDistance": "0.000 km"
+      "place": "47"
     }
   ]
 ]

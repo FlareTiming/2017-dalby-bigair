@@ -1,32 +1,20 @@
 {
-  "scoredSeconds": [
-    0,
-    10792
-  ],
   "flyingSeconds": [
     0,
-    10792
+    10822
   ],
-  "loggedSeconds": 10898,
+  "loggedSeconds": 10928,
   "loggedTimes": [
-    "2017-04-15T02:02:10Z",
+    "2017-04-15T02:01:40Z",
     "2017-04-15T05:03:48Z"
-  ],
-  "scoredTimes": [
-    "2017-04-15T02:02:10Z",
-    "2017-04-15T05:02:02Z"
   ],
   "flyingFixes": [
     0,
-    3574
+    3575
   ],
   "flyingTimes": [
-    "2017-04-15T02:02:10Z",
+    "2017-04-15T02:01:40Z",
     "2017-04-15T05:02:02Z"
   ],
-  "scoredFixes": [
-    0,
-    3574
-  ],
-  "loggedFixes": 3681
+  "loggedFixes": 3682
 }
