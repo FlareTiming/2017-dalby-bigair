@@ -10,7 +10,7 @@
     ],
     "sumOf": 2453
   },
-  "bestDistance": null,
+  "bestDistance": "88.932000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -82,20 +82,20 @@
       "frac": 0.17386873,
       "downers": [
         [
-          "1",
-          "Mark Alton"
-        ],
-        [
           "40",
           "Hossain Tefaili"
+        ],
+        [
+          "1",
+          "Mark Alton"
         ]
       ],
       "downward": 5,
       "rel": 0.00142682,
       "endAhead": "55.6 km",
       "downs": [
-        "40.874 km",
-        "40.858 km"
+        "40.858 km",
+        "40.874 km"
       ]
     },
     {
@@ -328,6 +328,6 @@
     }
   ],
   "lookahead": 148,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 18
 }

@@ -10,7 +10,7 @@
     ],
     "sumOf": 2646
   },
-  "bestDistance": null,
+  "bestDistance": "99.530000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -315,20 +315,20 @@
       "frac": 0.43726379,
       "downers": [
         [
-          "32",
-          "Rob Larkin"
-        ],
-        [
           "9",
           "Rohan Taylor"
+        ],
+        [
+          "32",
+          "Rob Larkin"
         ]
       ],
       "downward": 5,
       "rel": 0.00132275,
       "endAhead": "95.7 km",
       "downs": [
-        "83.895 km",
-        "83.877 km"
+        "83.877 km",
+        "83.895 km"
       ]
     },
     {
@@ -447,6 +447,6 @@
     }
   ],
   "lookahead": 119,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 25
 }

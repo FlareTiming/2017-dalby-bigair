@@ -49,6 +49,28 @@
       "27.553021 km"
     ]
   },
+  "startRoute": {
+    "waypoints": [
+      {
+        "lat": -27.13320872,
+        "lng": 151.2222764
+      },
+      {
+        "lat": -27.04349157,
+        "lng": 151.07718763
+      }
+    ],
+    "flipSum": [
+      "17.487998 km"
+    ],
+    "distance": "17.487998 km",
+    "legsSum": [
+      "17.487998 km"
+    ],
+    "legs": [
+      "17.487998 km"
+    ]
+  },
   "taskRouteSpeedSubset": {
     "waypoints": [
       {

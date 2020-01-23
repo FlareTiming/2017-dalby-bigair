@@ -10,7 +10,7 @@
     ],
     "sumOf": 3148
   },
-  "bestDistance": null,
+  "bestDistance": "111.271000 km",
   "difficulty": [
     {
       "endChunk": "5.1 km",
@@ -101,20 +101,20 @@
       "frac": 0.14644219,
       "downers": [
         [
-          "31",
-          "Tomas Kellner"
-        ],
-        [
           "3",
           "Paul Allen"
+        ],
+        [
+          "31",
+          "Tomas Kellner"
         ]
       ],
       "downward": 0,
       "rel": 0.00031766,
       "endAhead": "38.2 km",
       "downs": [
-        "22.365 km",
-        "22.305 km"
+        "22.305 km",
+        "22.365 km"
       ]
     },
     {
@@ -371,6 +371,6 @@
     }
   ],
   "lookahead": 159,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 21
 }

@@ -89,13 +89,76 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": 0
+      "arrivalTime": false,
+      "leadingWeightScaling": 0,
+      "arrivalRank": true
     },
     "startGates": [
       "2017-04-09T03:20:00Z",
       "2017-04-09T03:40:00Z",
       "2017-04-09T04:00:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "24",
+          "Brodrick Osborne"
+        ],
+        [
+          {
+            "penalty-points": 5.7
+          }
+        ],
+        "Jumped the gun by 0:57"
+      ],
+      [
+        [
+          "38",
+          "Dave Stevens"
+        ],
+        [
+          {
+            "penalty-points": 4.9
+          }
+        ],
+        "Jumped the gun by 0:49"
+      ],
+      [
+        [
+          "37",
+          "John Spencer"
+        ],
+        [
+          {
+            "penalty-points": 5.1
+          }
+        ],
+        "Jumped the gun by 0:51"
+      ],
+      [
+        [
+          "14",
+          "Tony Giammichele"
+        ],
+        [
+          {
+            "penalty-points": 5.5
+          }
+        ],
+        "Jumped the gun by 0:55"
+      ],
+      [
+        [
+          "15",
+          "Andrew Sharpe"
+        ],
+        [
+          {
+            "penalty-points": 5.9
+          }
+        ],
+        "Jumped the gun by 0:59"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -105,6 +168,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
     }
@@ -235,13 +299,28 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "arrivalRank": true
     },
     "startGates": [
       "2017-04-12T03:00:00Z",
       "2017-04-12T03:20:00Z",
       "2017-04-12T03:40:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "41",
+          "Peter Burkitt"
+        ],
+        [
+          {
+            "penalty-points": 5.1
+          }
+        ],
+        "Jumped the gun by 0:51"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -251,6 +330,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
     }
@@ -345,14 +425,16 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "arrivalRank": true
     },
     "startGates": [
       "2017-04-13T03:00:00Z",
       "2017-04-13T03:20:00Z",
       "2017-04-13T03:40:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -361,6 +443,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
     }
@@ -455,14 +538,16 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "arrivalRank": true
     },
     "startGates": [
       "2017-04-14T03:00:00Z",
       "2017-04-14T03:20:00Z",
       "2017-04-14T03:40:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -471,6 +556,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
     }
@@ -583,13 +669,28 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "arrivalRank": true
     },
     "startGates": [
       "2017-04-15T03:00:00Z",
       "2017-04-15T03:20:00Z",
       "2017-04-15T03:40:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "35",
+          "Anatoly Reyter"
+        ],
+        [
+          {
+            "penalty-points": 3.7
+          }
+        ],
+        "Jumped the gun by 0:37"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -599,6 +700,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
     }
