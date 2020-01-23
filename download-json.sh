@@ -22,6 +22,7 @@ mkdir json/stats
 curl -X GET -H "Accept:application/json" http://localhost:3000/stats/point-diff | jq > json/stats/point-diff.json
 
 mkdir json/fs-route
+mkdir json/fs-mask-track
 mkdir json/fs-effort
 mkdir json/cross-zone
 mkdir json/cross-zone/track-flying-section
@@ -33,12 +34,15 @@ mkdir json/mask-track
 mkdir json/land-out
 for t in {1..5}
     do
-        mkdir json/fs-effort/$t
-        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-effort/$t/landing | jq > json/fs-effort/$t/landing.json
-
         mkdir json/fs-route/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/fs-route/$t/sphere | jq > json/fs-route/$t/sphere.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/fs-route/$t/ellipse | jq > json/fs-route/$t/ellipse.json
+
+        mkdir json/fs-mask-track/$t
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-mask-track/$t/arrival | jq > json/fs-mask-track/$t/arrival.json
+
+        mkdir json/fs-effort/$t
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-effort/$t/landing | jq > json/fs-effort/$t/landing.json
 
         mkdir json/fs-score/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/fs-score/$t/score | jq > json/fs-score/$t/score.json
