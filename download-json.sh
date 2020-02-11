@@ -1,8 +1,8 @@
 #!/bin/bash
 
-curl -X GET -H "Accept:application/json" http://localhost:3000/swagger.json | jq > swagger.json
-
 mkdir json
+curl -X GET -H "Accept:application/json" http://localhost:3000/swagger.json | jq > json/swagger.json
+
 mkdir json/comp-input
 curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/comps | jq > json/comp-input/comps.json
 curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/nominals | jq > json/comp-input/nominals.json
