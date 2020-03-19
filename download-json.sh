@@ -34,6 +34,7 @@ mkdir json/peg-frame/track-scored-section
 mkdir json/pilot-track
 mkdir json/mask-track
 mkdir json/land-out
+mkdir json/discard-further
 for t in {1..5}
     do
         mkdir json/fs-route/$t
@@ -91,11 +92,13 @@ for t in {1..5}
         mkdir json/peg-frame/track-scored-section/$t
         mkdir json/tag-zone/$t
         mkdir json/pilot-track/$t
+        mkdir json/discard-further/$t
         for p in {1..51}
             do
             curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/track-flying-section/$t/$p | jq > json/cross-zone/track-flying-section/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/tag-zone/$t/$p | jq > json/tag-zone/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/peg-frame/track-scored-section/$t/$p | jq > json/peg-frame/track-scored-section/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/pilot-track/$t/$p | jq > json/pilot-track/$t/$p.json
+            curl -X GET -H "Accept:application/json" http://localhost:3000/discard-further/$t/$p | jq > json/discard-further/$t/$p.json
             done
     done

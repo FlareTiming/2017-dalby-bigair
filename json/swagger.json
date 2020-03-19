@@ -879,6 +879,40 @@
         }
       }
     },
+    "/discard-further/{task}/{pilot}": {
+      "get": {
+        "produces": [
+          "application/json;charset=utf-8"
+        ],
+        "parameters": [
+          {
+            "maximum": 9223372036854776000,
+            "minimum": -9223372036854776000,
+            "required": true,
+            "in": "path",
+            "name": "task",
+            "type": "integer"
+          },
+          {
+            "required": true,
+            "in": "path",
+            "name": "pilot",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "404": {
+            "description": "`task` or `pilot` not found"
+          },
+          "200": {
+            "schema": {
+              "$ref": "#/definitions/RawLeadingArea"
+            },
+            "description": ""
+          }
+        }
+      }
+    },
     "/cross-zone/track-flying-section/{task}/{pilot}": {
       "get": {
         "produces": [
@@ -1962,12 +1996,16 @@
     },
     "Tweak": {
       "required": [
+        "leadingAreaDistanceSquared",
         "arrivalRank",
         "arrivalTime"
       ],
       "properties": {
         "leadingWeightScaling": {
           "$ref": "#/definitions/LwScaling"
+        },
+        "leadingAreaDistanceSquared": {
+          "type": "boolean"
         },
         "arrivalRank": {
           "type": "boolean"
@@ -2715,6 +2753,174 @@
     "Altitude": {
       "type": "integer"
     },
+    "RawLeadingArea": {
+      "required": [
+        "ticks",
+        "areaWithDistanceSquared"
+      ],
+      "properties": {
+        "raceTime": {
+          "$ref": "#/definitions/RaceTime"
+        },
+        "raceDistance": {
+          "pattern": "^[-+]?[0-9]*\\.?[0-9]{0,6} m$",
+          "example": "142.789048 km",
+          "type": "string"
+        },
+        "ticks": {
+          "items": {
+            "$ref": "#/definitions/TickRow"
+          },
+          "type": "array"
+        },
+        "areaWithDistanceSquared": {
+          "$ref": "#/definitions/LeadingAreas"
+        }
+      },
+      "type": "object"
+    },
+    "RaceTime": {
+      "required": [
+        "openTask",
+        "closeTask",
+        "openClose"
+      ],
+      "properties": {
+        "openTask": {
+          "$ref": "#/definitions/UTCTime"
+        },
+        "closeTask": {
+          "$ref": "#/definitions/UTCTime"
+        },
+        "firstLead": {
+          "$ref": "#/definitions/FirstLead"
+        },
+        "firstStart": {
+          "$ref": "#/definitions/FirstStart"
+        },
+        "lastArrival": {
+          "$ref": "#/definitions/LastArrival"
+        },
+        "leadArrival": {
+          "$ref": "#/definitions/EssTime"
+        },
+        "leadAllDown": {
+          "$ref": "#/definitions/EssTime"
+        },
+        "leadClose": {
+          "$ref": "#/definitions/EssTime"
+        },
+        "tickClose": {
+          "$ref": "#/definitions/EssTime"
+        },
+        "openClose": {
+          "$ref": "#/definitions/EssTime"
+        }
+      },
+      "type": "object"
+    },
+    "FirstLead": {
+      "example": "2016-07-22T00:00:00Z",
+      "format": "yyyy-mm-ddThh:MM:ssZ",
+      "type": "string"
+    },
+    "FirstStart": {
+      "example": "2016-07-22T00:00:00Z",
+      "format": "yyyy-mm-ddThh:MM:ssZ",
+      "type": "string"
+    },
+    "LastArrival": {
+      "example": "2016-07-22T00:00:00Z",
+      "format": "yyyy-mm-ddThh:MM:ssZ",
+      "type": "string"
+    },
+    "EssTime": {
+      "format": "double",
+      "type": "number"
+    },
+    "TickRow": {
+      "required": [
+        "fixIdx",
+        "alt",
+        "zoneIdx",
+        "legIdx",
+        "togo"
+      ],
+      "properties": {
+        "fixIdx": {
+          "$ref": "#/definitions/FixIdx"
+        },
+        "alt": {
+          "$ref": "#/definitions/RawAlt"
+        },
+        "tickLead": {
+          "$ref": "#/definitions/LeadTick"
+        },
+        "tickRace": {
+          "$ref": "#/definitions/RaceTick"
+        },
+        "zoneIdx": {
+          "$ref": "#/definitions/ZoneIdx"
+        },
+        "legIdx": {
+          "$ref": "#/definitions/LegIdx"
+        },
+        "togo": {
+          "format": "double",
+          "type": "number"
+        }
+      },
+      "type": "object"
+    },
+    "FixIdx": {
+      "maximum": 9223372036854776000,
+      "minimum": -9223372036854776000,
+      "type": "integer"
+    },
+    "RawAlt": {
+      "format": "double",
+      "type": "number"
+    },
+    "LeadTick": {
+      "format": "double",
+      "type": "number"
+    },
+    "RaceTick": {
+      "format": "double",
+      "type": "number"
+    },
+    "ZoneIdx": {
+      "maximum": 9223372036854776000,
+      "minimum": -9223372036854776000,
+      "type": "integer"
+    },
+    "LegIdx": {
+      "maximum": 9223372036854776000,
+      "minimum": -9223372036854776000,
+      "type": "integer"
+    },
+    "LeadingAreas": {
+      "required": [
+        "areaFlown",
+        "areaAfterLanding",
+        "areaBeforeStart"
+      ],
+      "properties": {
+        "areaFlown": {
+          "$ref": "#/definitions/LeadingArea"
+        },
+        "areaAfterLanding": {
+          "$ref": "#/definitions/LeadingArea"
+        },
+        "areaBeforeStart": {
+          "$ref": "#/definitions/LeadingArea"
+        }
+      },
+      "type": "object"
+    },
+    "LeadingArea": {
+      "type": "string"
+    },
     "ZoneTag": {
       "required": [
         "inter",
@@ -2765,10 +2971,6 @@
         }
       },
       "type": "object"
-    },
-    "RawAlt": {
-      "format": "double",
-      "type": "number"
     },
     "ZoneCross": {
       "required": [

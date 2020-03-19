@@ -1177,48 +1177,6 @@
   ],
   [
     [
-      "5",
-      "Jonny Durand"
-    ],
-    {
-      "jump": null,
-      "demeritPoint": 0,
-      "reach": {
-        "extra": "58.770 km",
-        "flown": "58.770 km"
-      },
-      "breakdown": {
-        "time": 0,
-        "reach": 128.419,
-        "distance": 310.428,
-        "leading": 66.9,
-        "effort": 182.008,
-        "arrival": 0
-      },
-      "stoppedAlt": "314.000 m",
-      "demeritFrac": 0,
-      "demeritReset": 0,
-      "landedMade": "58.575 km",
-      "subtotal": 377.331,
-      "penaltyReason": "",
-      "penaltiesJump": [],
-      "velocity": {
-        "gs": "2017-04-15T03:00:00Z",
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2017-04-15T03:00:15.500277730508Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 377.331,
-      "penalties": [],
-      "place": "29"
-    }
-  ],
-  [
-    [
       "21",
       "Frank Chetcuti"
     ],
@@ -1256,6 +1214,48 @@
       },
       "total": 374.635,
       "penalties": [],
+      "place": "29"
+    }
+  ],
+  [
+    [
+      "5",
+      "Jonny Durand"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "58.770 km",
+        "flown": "58.770 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 128.419,
+        "distance": 310.428,
+        "leading": 45.2,
+        "effort": 182.008,
+        "arrival": 0
+      },
+      "stoppedAlt": "314.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "58.575 km",
+      "subtotal": 355.583,
+      "penaltyReason": "",
+      "penaltiesJump": [],
+      "velocity": {
+        "gs": "2017-04-15T03:00:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2017-04-15T03:00:15.500277730508Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 355.583,
+      "penalties": [],
       "place": "30"
     }
   ],
@@ -1275,7 +1275,7 @@
         "time": 0,
         "reach": 131,
         "distance": 312.686,
-        "leading": 28.6,
+        "leading": 13.2,
         "effort": 181.686,
         "arrival": 0
       },
@@ -1283,7 +1283,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "58.396 km",
-      "subtotal": 341.336,
+      "subtotal": 325.91,
       "penaltyReason": "",
       "penaltiesJump": [],
       "velocity": {
@@ -1296,7 +1296,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 341.336,
+      "total": 325.91,
       "penalties": [],
       "place": "31"
     }
@@ -1387,56 +1387,6 @@
   ],
   [
     [
-      "35",
-      "Anatoly Reyter"
-    ],
-    {
-      "jump": "35.259 s",
-      "demeritPoint": 3.526,
-      "reach": {
-        "extra": "55.970 km",
-        "flown": "55.970 km"
-      },
-      "breakdown": {
-        "time": 0,
-        "reach": 122.301,
-        "distance": 296.497,
-        "leading": 7.8,
-        "effort": 174.196,
-        "arrival": 0
-      },
-      "stoppedAlt": "317.000 m",
-      "demeritFrac": 0,
-      "demeritReset": 0,
-      "landedMade": "55.713 km",
-      "subtotal": 304.309,
-      "penaltyReason": "",
-      "penaltiesJump": [
-        {
-          "penalty-points": 3.5258961602772
-        }
-      ],
-      "velocity": {
-        "gs": "2017-04-15T03:00:00Z",
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2017-04-15T02:59:24.741038397228Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 300.783,
-      "penalties": [
-        {
-          "penalty-points": 3.5258961602772
-        }
-      ],
-      "place": "34"
-    }
-  ],
-  [
-    [
       "18",
       "Peter Adriaans"
     ],
@@ -1474,7 +1424,7 @@
       },
       "total": 296.342,
       "penalties": [],
-      "place": "35"
+      "place": "34"
     }
   ],
   [
@@ -1516,7 +1466,57 @@
       },
       "total": 293.4,
       "penalties": [],
-      "place": "36"
+      "place": "35="
+    }
+  ],
+  [
+    [
+      "35",
+      "Anatoly Reyter"
+    ],
+    {
+      "jump": "35.259 s",
+      "demeritPoint": 3.526,
+      "reach": {
+        "extra": "55.970 km",
+        "flown": "55.970 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 122.301,
+        "distance": 296.497,
+        "leading": 0,
+        "effort": 174.196,
+        "arrival": 0
+      },
+      "stoppedAlt": "317.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "55.713 km",
+      "subtotal": 296.497,
+      "penaltyReason": "",
+      "penaltiesJump": [
+        {
+          "penalty-points": 3.5258961602772
+        }
+      ],
+      "velocity": {
+        "gs": "2017-04-15T03:00:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2017-04-15T02:59:24.741038397228Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 292.971,
+      "penalties": [
+        {
+          "penalty-points": 3.5258961602772
+        }
+      ],
+      "place": "35="
     }
   ],
   [

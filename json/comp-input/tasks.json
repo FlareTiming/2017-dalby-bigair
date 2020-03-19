@@ -91,6 +91,7 @@
     "taskTweak": {
       "arrivalTime": false,
       "leadingWeightScaling": 0,
+      "leadingAreaDistanceSquared": true,
       "arrivalRank": true
     },
     "startGates": [
@@ -301,6 +302,7 @@
     "taskTweak": {
       "arrivalTime": false,
       "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
       "arrivalRank": true
     },
     "startGates": [
@@ -427,6 +429,7 @@
     "taskTweak": {
       "arrivalTime": false,
       "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
       "arrivalRank": true
     },
     "startGates": [
@@ -540,6 +543,7 @@
     "taskTweak": {
       "arrivalTime": false,
       "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
       "arrivalRank": true
     },
     "startGates": [
@@ -671,6 +675,7 @@
     "taskTweak": {
       "arrivalTime": false,
       "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
       "arrivalRank": true
     },
     "startGates": [

@@ -1073,7 +1073,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "110.743 km",
-      "subtotal": 474.134,
+      "subtotal": 474.132,
       "penaltyReason": "",
       "penaltiesJump": [],
       "velocity": {
@@ -1086,7 +1086,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 474.134,
+      "total": 474.132,
       "penalties": [],
       "place": "26"
     }
@@ -1107,7 +1107,7 @@
         "time": 0,
         "reach": 194.217,
         "distance": 390.773,
-        "leading": 56.3,
+        "leading": 56.2,
         "effort": 196.556,
         "arrival": 0
       },
@@ -1115,7 +1115,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "106.789 km",
-      "subtotal": 447.025,
+      "subtotal": 446.948,
       "penaltyReason": "",
       "penaltiesJump": [],
       "velocity": {
@@ -1128,7 +1128,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 447.025,
+      "total": 446.948,
       "penalties": [],
       "place": "27"
     }
@@ -1317,7 +1317,7 @@
         "time": 0,
         "reach": 172.371,
         "distance": 331.017,
-        "leading": 30.2,
+        "leading": 29.3,
         "effort": 158.645,
         "arrival": 0
       },
@@ -1325,7 +1325,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "94.992 km",
-      "subtotal": 361.194,
+      "subtotal": 360.281,
       "penaltyReason": "",
       "penaltiesJump": [],
       "velocity": {
@@ -1338,7 +1338,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 361.194,
+      "total": 360.281,
       "penalties": [],
       "place": "32"
     }
@@ -1359,7 +1359,7 @@
         "time": 0,
         "reach": 163.817,
         "distance": 311.411,
-        "leading": 12.1,
+        "leading": 10.8,
         "effort": 147.593,
         "arrival": 0
       },
@@ -1367,7 +1367,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "89.947 km",
-      "subtotal": 323.542,
+      "subtotal": 322.181,
       "penaltyReason": "",
       "penaltiesJump": [],
       "velocity": {
@@ -1380,7 +1380,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 323.542,
+      "total": 322.181,
       "penalties": [],
       "place": "33"
     }
@@ -1401,7 +1401,7 @@
         "time": 0,
         "reach": 137.878,
         "distance": 269.472,
-        "leading": 58.4,
+        "leading": 53.1,
         "effort": 131.594,
         "arrival": 0
       },
@@ -1409,7 +1409,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "75.952 km",
-      "subtotal": 327.861,
+      "subtotal": 322.542,
       "penaltyReason": "",
       "penaltiesJump": [
         {
@@ -1426,7 +1426,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 311.567,
+      "total": 306.247,
       "penalties": [
         {
           "penalty-points": 16.2947530146035
@@ -1521,48 +1521,6 @@
   ],
   [
     [
-      "51",
-      "Billy Miller-Macleod"
-    ],
-    {
-      "jump": null,
-      "demeritPoint": 0,
-      "reach": {
-        "extra": "66.567 km",
-        "flown": "66.567 km"
-      },
-      "breakdown": {
-        "time": 0,
-        "reach": 120.79,
-        "distance": 233.686,
-        "leading": 6.3,
-        "effort": 112.896,
-        "arrival": 0
-      },
-      "stoppedAlt": "289.000 m",
-      "demeritFrac": 0,
-      "demeritReset": 0,
-      "landedMade": "64.602 km",
-      "subtotal": 240.019,
-      "penaltyReason": "",
-      "penaltiesJump": [],
-      "velocity": {
-        "gs": "2017-04-12T03:20:00Z",
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2017-04-12T03:21:11.70108161297Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 240.019,
-      "penalties": [],
-      "place": "37"
-    }
-  ],
-  [
-    [
       "1",
       "Mark Alton"
     ],
@@ -1577,7 +1535,7 @@
         "time": 0,
         "reach": 120.308,
         "distance": 237.316,
-        "leading": 2,
+        "leading": 0,
         "effort": 117.008,
         "arrival": 0
       },
@@ -1585,7 +1543,7 @@
       "demeritFrac": 0,
       "demeritReset": 0,
       "landedMade": "66.237 km",
-      "subtotal": 239.364,
+      "subtotal": 237.316,
       "penaltyReason": "",
       "penaltiesJump": [],
       "velocity": {
@@ -1598,7 +1556,49 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 239.364,
+      "total": 237.316,
+      "penalties": [],
+      "place": "37"
+    }
+  ],
+  [
+    [
+      "51",
+      "Billy Miller-Macleod"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "66.567 km",
+        "flown": "66.567 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 120.79,
+        "distance": 233.686,
+        "leading": 0.4,
+        "effort": 112.896,
+        "arrival": 0
+      },
+      "stoppedAlt": "289.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "64.602 km",
+      "subtotal": 234.095,
+      "penaltyReason": "",
+      "penaltiesJump": [],
+      "velocity": {
+        "gs": "2017-04-12T03:20:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2017-04-12T03:21:11.70108161297Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 234.095,
       "penalties": [],
       "place": "38"
     }
