@@ -105,11 +105,15 @@
           "24",
           "Brodrick Osborne"
         ],
-        [
-          {
-            "penalty-points": 5.7
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -5.7
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:57"
       ],
       [
@@ -117,11 +121,15 @@
           "38",
           "Dave Stevens"
         ],
-        [
-          {
-            "penalty-points": 4.9
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -4.9
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:49"
       ],
       [
@@ -129,11 +137,15 @@
           "37",
           "John Spencer"
         ],
-        [
-          {
-            "penalty-points": 5.1
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -5.1
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:51"
       ],
       [
@@ -141,11 +153,15 @@
           "14",
           "Tony Giammichele"
         ],
-        [
-          {
-            "penalty-points": 5.5
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -5.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:55"
       ],
       [
@@ -153,11 +169,15 @@
           "15",
           "Andrew Sharpe"
         ],
-        [
-          {
-            "penalty-points": 5.9
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -5.9
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:59"
       ]
     ],
@@ -316,11 +336,15 @@
           "41",
           "Peter Burkitt"
         ],
-        [
-          {
-            "penalty-points": 5.1
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -5.1
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:51"
       ]
     ],
@@ -689,11 +713,15 @@
           "35",
           "Anatoly Reyter"
         ],
-        [
-          {
-            "penalty-points": 3.7
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -3.7
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:37"
       ]
     ],
