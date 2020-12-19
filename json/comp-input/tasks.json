@@ -89,6 +89,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": 0,
       "leadingAreaDistanceSquared": true,
@@ -192,7 +193,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "day four T2",
@@ -320,6 +322,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -359,7 +362,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "day five",
@@ -451,6 +455,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -473,7 +478,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "day six",
@@ -565,6 +571,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -587,7 +594,8 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
-    }
+    },
+    "cancelled": false
   },
   {
     "taskName": "day seven",
@@ -697,6 +705,7 @@
     ],
     "stopped": null,
     "taskTweak": {
+      "essNotGoalScaling": 0.8,
       "arrivalTime": false,
       "leadingWeightScaling": null,
       "leadingAreaDistanceSquared": true,
@@ -736,6 +745,7 @@
       "tooEarlyReset": 0,
       "earlyPenalty": "10 s",
       "earliest": "300 s"
-    }
+    },
+    "cancelled": false
   }
 ]

@@ -8,7 +8,7 @@
       0,
       "0.0 km"
     ],
-    "sumOf": 3142
+    "sumOf": 3148
   },
   "bestDistance": "111.259762 km",
   "difficulty": [
@@ -17,7 +17,7 @@
       "down": 1,
       "chunk": 50,
       "startChunk": "5.0 km",
-      "frac": 0.0222168,
+      "frac": 0.02197266,
       "downers": [
         [
           "49",
@@ -25,18 +25,18 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.0004774,
+      "rel": 0.00047649,
       "endAhead": "21.0 km",
       "downs": [
         "5.000 km"
       ]
     },
     {
-      "endChunk": "7.0 km",
+      "endChunk": "7.6 km",
       "down": 1,
-      "chunk": 69,
-      "startChunk": "6.9 km",
-      "frac": 0.03295898,
+      "chunk": 75,
+      "startChunk": "7.5 km",
+      "frac": 0.03710938,
       "downers": [
         [
           "27",
@@ -44,10 +44,10 @@
         ]
       ],
       "downward": 6,
-      "rel": 0.00095481,
-      "endAhead": "22.9 km",
+      "rel": 0.00095299,
+      "endAhead": "23.5 km",
       "downs": [
-        "6.933 km"
+        "7.594 km"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "down": 1,
       "chunk": 172,
       "startChunk": "17.2 km",
-      "frac": 0.11499023,
+      "frac": 0.11425781,
       "downers": [
         [
           "28",
@@ -63,37 +63,18 @@
         ]
       ],
       "downward": 5,
-      "rel": 0.00079567,
+      "rel": 0.00079416,
       "endAhead": "33.2 km",
       "downs": [
-        "17.269 km"
+        "17.272 km"
       ]
     },
     {
-      "endChunk": "22.0 km",
-      "down": 1,
-      "chunk": 219,
-      "startChunk": "21.9 km",
-      "frac": 0.14477539,
-      "downers": [
-        [
-          "31",
-          "Tomas Kellner"
-        ]
-      ],
-      "downward": 4,
-      "rel": 0.00063654,
-      "endAhead": "37.9 km",
-      "downs": [
-        "21.923 km"
-      ]
-    },
-    {
-      "endChunk": "22.2 km",
-      "down": 3,
-      "chunk": 221,
-      "startChunk": "22.1 km",
-      "frac": 0.14575195,
+      "endChunk": "22.3 km",
+      "down": 2,
+      "chunk": 222,
+      "startChunk": "22.2 km",
+      "frac": 0.14599609,
       "downers": [
         [
           "15",
@@ -102,46 +83,79 @@
         [
           "23",
           "Noel Collins"
-        ],
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00063532,
+      "endAhead": "38.2 km",
+      "downs": [
+        "22.261 km",
+        "22.261 km"
+      ]
+    },
+    {
+      "endChunk": "22.4 km",
+      "down": 1,
+      "chunk": 223,
+      "startChunk": "22.3 km",
+      "frac": 0.14624023,
+      "downers": [
         [
           "3",
           "Paul Allen"
         ]
       ],
-      "downward": 3,
-      "rel": 0.0004774,
-      "endAhead": "38.1 km",
+      "downward": 2,
+      "rel": 0.00031766,
+      "endAhead": "38.3 km",
       "downs": [
-        "22.154 km",
-        "22.154 km",
-        "22.188 km"
+        "22.354 km"
       ]
     },
     {
-      "endChunk": "49.1 km",
+      "endChunk": "22.5 km",
       "down": 1,
-      "chunk": 490,
-      "startChunk": "49.0 km",
-      "frac": 0.17529297,
+      "chunk": 224,
+      "startChunk": "22.4 km",
+      "frac": 0.14648438,
+      "downers": [
+        [
+          "31",
+          "Tomas Kellner"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00015883,
+      "endAhead": "38.4 km",
+      "downs": [
+        "22.414 km"
+      ]
+    },
+    {
+      "endChunk": "49.7 km",
+      "down": 1,
+      "chunk": 496,
+      "startChunk": "49.6 km",
+      "frac": 0.17602539,
       "downers": [
         [
           "32",
           "Rob Larkin"
         ]
       ],
-      "downward": 3,
-      "rel": 0.0004774,
-      "endAhead": "65.0 km",
+      "downward": 2,
+      "rel": 0.00031766,
+      "endAhead": "65.6 km",
       "downs": [
-        "49.012 km"
+        "49.676 km"
       ]
     },
     {
-      "endChunk": "62.6 km",
+      "endChunk": "62.9 km",
       "down": 1,
-      "chunk": 625,
-      "startChunk": "62.5 km",
-      "frac": 0.26293945,
+      "chunk": 628,
+      "startChunk": "62.8 km",
+      "frac": 0.26171875,
       "downers": [
         [
           "43",
@@ -149,56 +163,56 @@
         ]
       ],
       "downward": 6,
-      "rel": 0.00095481,
-      "endAhead": "78.5 km",
+      "rel": 0.00095299,
+      "endAhead": "78.8 km",
       "downs": [
-        "62.516 km"
+        "62.890 km"
       ]
     },
     {
-      "endChunk": "64.7 km",
+      "endChunk": "66.4 km",
       "down": 1,
-      "chunk": 646,
-      "startChunk": "64.6 km",
-      "frac": 0.27954102,
-      "downers": [
-        [
-          "51",
-          "Billy Miller-Macleod"
-        ]
-      ],
-      "downward": 5,
-      "rel": 0.00079567,
-      "endAhead": "80.6 km",
-      "downs": [
-        "64.602 km"
-      ]
-    },
-    {
-      "endChunk": "66.3 km",
-      "down": 1,
-      "chunk": 662,
-      "startChunk": "66.2 km",
-      "frac": 0.28979492,
+      "chunk": 663,
+      "startChunk": "66.3 km",
+      "frac": 0.28955078,
       "downers": [
         [
           "1",
           "Mark Alton"
         ]
       ],
-      "downward": 4,
-      "rel": 0.00063654,
-      "endAhead": "82.2 km",
+      "downward": 5,
+      "rel": 0.00079416,
+      "endAhead": "82.3 km",
       "downs": [
-        "66.237 km"
+        "66.301 km"
       ]
     },
     {
-      "endChunk": "69.7 km",
+      "endChunk": "66.6 km",
       "down": 1,
-      "chunk": 696,
-      "startChunk": "69.6 km",
-      "frac": 0.3059082,
+      "chunk": 665,
+      "startChunk": "66.5 km",
+      "frac": 0.29077148,
+      "downers": [
+        [
+          "51",
+          "Billy Miller-Macleod"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00063532,
+      "endAhead": "82.5 km",
+      "downs": [
+        "66.567 km"
+      ]
+    },
+    {
+      "endChunk": "69.8 km",
+      "down": 1,
+      "chunk": 697,
+      "startChunk": "69.7 km",
+      "frac": 0.30615234,
       "downers": [
         [
           "48",
@@ -206,18 +220,18 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.0004774,
-      "endAhead": "85.6 km",
+      "rel": 0.00047649,
+      "endAhead": "85.7 km",
       "downs": [
-        "69.641 km"
+        "69.744 km"
       ]
     },
     {
-      "endChunk": "74.0 km",
+      "endChunk": "74.4 km",
       "down": 1,
-      "chunk": 739,
-      "startChunk": "73.9 km",
-      "frac": 0.31958008,
+      "chunk": 743,
+      "startChunk": "74.3 km",
+      "frac": 0.32080078,
       "downers": [
         [
           "40",
@@ -225,10 +239,10 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00031827,
-      "endAhead": "89.9 km",
+      "rel": 0.00031766,
+      "endAhead": "90.3 km",
       "downs": [
-        "73.945 km"
+        "74.378 km"
       ]
     },
     {
@@ -236,7 +250,7 @@
       "down": 1,
       "chunk": 759,
       "startChunk": "75.9 km",
-      "frac": 0.32592773,
+      "frac": 0.32568359,
       "downers": [
         [
           "41",
@@ -244,18 +258,18 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00031827,
+      "rel": 0.00031766,
       "endAhead": "91.9 km",
       "downs": [
-        "75.952 km"
+        "75.984 km"
       ]
     },
     {
-      "endChunk": "90.0 km",
+      "endChunk": "90.3 km",
       "down": 1,
-      "chunk": 899,
-      "startChunk": "89.9 km",
-      "frac": 0.36547852,
+      "chunk": 902,
+      "startChunk": "90.2 km",
+      "frac": 0.36621094,
       "downers": [
         [
           "36",
@@ -263,10 +277,10 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00031827,
-      "endAhead": "105.9 km",
+      "rel": 0.00031766,
+      "endAhead": "106.2 km",
       "downs": [
-        "89.947 km"
+        "90.279 km"
       ]
     },
     {
@@ -274,7 +288,7 @@
       "down": 1,
       "chunk": 949,
       "startChunk": "94.9 km",
-      "frac": 0.39282227,
+      "frac": 0.39257812,
       "downers": [
         [
           "17",
@@ -282,53 +296,67 @@
         ]
       ],
       "downward": 5,
-      "rel": 0.00079567,
+      "rel": 0.00079416,
       "endAhead": "110.9 km",
       "downs": [
-        "94.992 km"
-      ]
-    },
-    {
-      "endChunk": "106.8 km",
-      "down": 1,
-      "chunk": 1067,
-      "startChunk": "106.7 km",
-      "frac": 0.48681641,
-      "downers": [
-        [
-          "19",
-          "Scott Barrett"
-        ]
-      ],
-      "downward": 5,
-      "rel": 0.00079567,
-      "endAhead": "122.7 km",
-      "downs": [
-        "106.789 km"
+        "94.993 km"
       ]
     },
     {
       "endChunk": "106.9 km",
-      "down": 2,
+      "down": 1,
       "chunk": 1068,
       "startChunk": "106.8 km",
-      "frac": 0.48754883,
+      "frac": 0.48706055,
       "downers": [
         [
           "18",
           "Peter Adriaans"
-        ],
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00079416,
+      "endAhead": "122.8 km",
+      "downs": [
+        "106.882 km"
+      ]
+    },
+    {
+      "endChunk": "107.0 km",
+      "down": 1,
+      "chunk": 1069,
+      "startChunk": "106.9 km",
+      "frac": 0.48754883,
+      "downers": [
         [
           "35",
           "Anatoly Reyter"
         ]
       ],
       "downward": 4,
-      "rel": 0.00063654,
-      "endAhead": "122.8 km",
+      "rel": 0.00063532,
+      "endAhead": "122.9 km",
       "downs": [
-        "106.882 km",
-        "106.897 km"
+        "106.951 km"
+      ]
+    },
+    {
+      "endChunk": "107.1 km",
+      "down": 1,
+      "chunk": 1070,
+      "startChunk": "107.0 km",
+      "frac": 0.48803711,
+      "downers": [
+        [
+          "19",
+          "Scott Barrett"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00047649,
+      "endAhead": "123.0 km",
+      "downs": [
+        "107.032 km"
       ]
     },
     {
@@ -344,10 +372,10 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00031827,
+      "rel": 0.00031766,
       "endAhead": "126.7 km",
       "downs": [
-        "110.743 km"
+        "110.744 km"
       ]
     },
     {
@@ -363,7 +391,7 @@
         ]
       ],
       "downward": 1,
-      "rel": 0.00015913,
+      "rel": 0.00015883,
       "endAhead": "126.8 km",
       "downs": [
         "110.820 km"
